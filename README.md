@@ -38,7 +38,7 @@ Run backend with nodemon
 * Redux-thunk
 * Axios
 * Styled Components
-* Node.json
+* Node.js
 * Express
 * MongoDB
 * JWT
